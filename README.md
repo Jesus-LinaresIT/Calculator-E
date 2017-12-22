@@ -1,2 +1,2 @@
-# Calculadora-E
+# Calculator-E
 Standard calculator
